@@ -1,0 +1,243 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #7581a1;
+    line-height: 26px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav {
+    font-size: 12px;
+    font-weight: 700;
+    color: #6e7ea9;
+    text-transform: uppercase;
+}
+.btn-free {
+    font-weight: 400;
+    background-color: #1085e4;
+    color: #fff;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 600;
+    color: #192b59;
+}
+.grid h2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #192b59;
+}
+.grid h2 span {
+    font-size: 14px;
+    font-weight: 800;
+    color: #1085e4;
+    text-transform: uppercase;
+    display: block;
+}
+
+.grid-item h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #192b59;
+}
+
+.grid-item a {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1085e4;
+}
+
+.author {
+    font-size: 14px;
+    font-weight: 400;
+    color: #1085e4;
+}
+.author span {
+    font-size: 16px;
+    font-weight: 700;
+    color: #192b59;
+}
+
+.page-subscribe h2 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #fff;
+}
+.page-subscribe h2 span {
+    font-size: 14px;
+    font-weight: 800;
+    color: #1085e4;
+    text-transform: uppercase;
+    display: block;
+}
+
+.btn-subs {
+    background-color: 1085e4;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+}
+.page-feauters h2 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-feauters dt {
+    font-size: 16px;
+    font-weight: 700;
+    color: #5a6789;
+}
+.page-feauters dd {
+    font-size: 14px;
+    color: #7581a1;
+}
+.page-counter h2 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-counter h2 span {
+    font-size: 16px;
+    font-weight: 800;
+    color: #1085e4;
+    text-transform: uppercase;
+    display: block;
+}
+
+.page-counter ul {
+    font-size: 60px;
+    font-weight: 700;
+    color: #bacbdc;
+}
+
+.page-counter ul span {
+    font-size: 12px;
+    font-weight: 700;
+    color: #1085e4;
+    text-transform: uppercase;
+    display: block;
+}
+
+.page-video h2 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+
+.page-video .available {
+    font-size: 16x;
+    font-weight: 700;
+    color: #c4d2dd;
+    text-transform: uppercase;
+}
+
+.page-feauters1 h2 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+
+.page-feauters2 h2 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-screeenshot h2 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-screeenshot h2 span {
+    font-size: 16px;
+    font-weight: 800;
+    color: #1085e4;
+    text-transform: uppercase;
+    display: block;
+}
+
+.page-clients h2 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #fff;
+}
+.page-clients h2 span {
+    font-size: 18px;
+    font-weight: 800;
+    color: #85c8ff;
+    text-transform: uppercase;
+    display: block;
+}
+
+.box-clients  .client-name {
+    font-size: 14px;
+    font-weight: 700;
+    color: #1085e4;
+    text-transform: uppercase;
+}
+.box-clients .position {
+    font-size: 22px;
+    font-weight: 600;
+    color: #000958;
+    display: block;
+    text-transform: none;
+}
+.page-price h2 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-price h2 span {
+    font-size: 18px;
+    font-weight: 800;
+    color: #1085e4;
+    text-transform: uppercase;
+    display: block;
+}
+
+.pricing-plan h3 {
+    font-size: 70px;
+    font-weight: 700;
+    color: #000958;
+}
+
+.pricing-plan p {
+    font-size: 14px;
+    font-weight: 700;
+    color: #0084ff;
+    text-transform: uppercase;
+    display: block;
+}
+.page-team h2 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #fff;
+}
+.page-team h2 span {
+    font-size: 18px;
+    font-weight: 800;
+    color: #85c8ff;
+    text-transform: uppercase;
+    display: block;
+}
+.team-member p {
+    font-size: 26px;
+    font-weight: 600;
+    color: #192b59;
+}
+.team-member .name-member {
+    font-size: 14px;
+    font-weight: 800;
+    color: #1a88e1;
+    text-transform: uppercase;
+    display: block;
+}
+.contact_form h2 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
